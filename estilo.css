@@ -1,0 +1,67 @@
+header {
+    background-color: #efe9b7;
+}
+
+body {
+    font-family: "Segoe UI";
+}
+
+#Titulo {
+    text-align: left;
+}
+
+#Link {
+    color: black;
+    text-decoration: none;
+}
+
+#Subtitulo {
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    column-width: 250px;
+    padding: 10px;
+}
+
+#Cuerpo {
+    text-align: justify;
+    column-width: 950px;
+    padding: 10px;
+}
+
+#Pregunta {
+    text-align: left;
+    padding: 5px;
+    column-width: 210px;
+}
+
+ul {
+    list-style: none;
+}
+
+[login1="yes"] {
+    color: #7a7a7a;
+    ;
+}
+
+[login2="yes"] {
+    color: #7a7a7a;
+}
+
+[login3="yes"] {
+    color: #7a7a7a;
+    ;
+}
+
+[footer_submit="footer_submit"]:hover {
+    color: blue;
+}
+
+footer {
+    background-color: rgb(242, 241, 186);
+}
+
+div{
+    width: 1200px;
+    vertical-align: central;
+}
